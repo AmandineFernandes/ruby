@@ -1,0 +1,1 @@
+puts "Hello, c'est quoi ton petit nom ?"
